@@ -1,4 +1,4 @@
-# Welcome to my Portfolio - MatthewST05.github.io
+# Welcome to my Portfolio
 
 My name is Matthew Torres and I am a student at Cal State Fullerton. My major I am following is Computer Engineering
 
